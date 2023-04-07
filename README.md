@@ -1,2 +1,2 @@
 # HexSchool_Website
-Website: https://hungyennn.github.io/Restaurant-Website/
+Website: https://hungyennn.github.io/HexSchool_Website/
